@@ -1,8 +1,4 @@
 
-from ast import While
-from unittest import result
-
-
 def checking_numbers(day, monht, year):
     result = [True]
     if monht < 1 or monht > 12:
