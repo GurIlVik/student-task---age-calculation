@@ -269,3 +269,4 @@ def start_of_the_program():
             break
 
 start_of_the_program()
+print('finish')
